@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29731e67-2889-4785-9486-de5ad6f8106d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ex1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex1/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex1/StudentModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex2/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex2/StudentModel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +37,20 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex2.Main" />
+      <module name="java_core_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex1.Main" />
       <module name="java_core_2" />
@@ -66,6 +79,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -79,7 +93,7 @@
       <option name="presentableId" value="Default" />
       <updated>1666448311731</updated>
       <workItem from="1666448313246" duration="678000" />
-      <workItem from="1666527821144" duration="1161000" />
+      <workItem from="1666527821144" duration="10618000" />
     </task>
     <servers />
   </component>
