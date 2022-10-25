@@ -1,5 +1,6 @@
 package ex3;
 
+import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.Scanner;
 
@@ -15,6 +16,7 @@ public class WorkerModel {
         System.out.println("enter salary: ");
         worker.setSalary(sc.nextDouble());
         System.out.println("enter work location: ");
+        sc.nextLine();
         worker.setWorkPlace(sc.nextLine());
         return worker;
     }
@@ -29,6 +31,8 @@ public class WorkerModel {
                 double plusSalary = Double.parseDouble(sc.nextLine());
                 double newSalary = worker.getSalary()+plusSalary;
                 worker.setSalary(newSalary);
+                worker.setStatus("UP");
+                worker.setDate(LocalDate.now());
                 check ++;
             }
         }
@@ -43,10 +47,12 @@ public class WorkerModel {
         String checkId = sc.nextLine();
         for (Worker worker: workers){
             if (checkId.equals(worker.getIdWorker())){
-                System.out.println("enter number plus salary: ");
-                double plusSalary = Double.parseDouble(sc.nextLine());
-                double newSalary = worker.getSalary()-plusSalary;
+                System.out.println("enter number minus salary: ");
+                double minusSalary = Double.parseDouble(sc.nextLine());
+                double newSalary = worker.getSalary()-minusSalary;
                 worker.setSalary(newSalary);
+                worker.setStatus("DOWN");
+                worker.setDate(LocalDate.now());
                 check++;
             }
         }

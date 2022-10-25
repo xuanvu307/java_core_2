@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29731e67-2889-4785-9486-de5ad6f8106d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ex3/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/ex3/View.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex3/Worker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex3/WorkerModel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex3/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex3/Worker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex3/WorkerModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex3/WorkerModel.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,8 +65,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-<<<<<<< HEAD
-=======
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -78,7 +76,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
->>>>>>> 16966458e316ca02201a1255a94db47a0c1e513c
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main (1)" />
