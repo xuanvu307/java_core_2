@@ -5,6 +5,7 @@ public class Employee {
     private int idUser;
     private String name;
     private double salary;
+    private double earning;
 
 
     public Employee(int idUser, String name, double salary) {
@@ -41,12 +42,20 @@ public class Employee {
         this.salary = salary;
     }
 
+    public double getEarning() {
+        return earning;
+    }
+
+    public void setEarning(double earning) {
+        this.earning = earning;
+    }
+
     @Override
     public String toString() {
-        return "Employee{" +
-                "idUser=" + idUser +
-                ", name='" + name + '\'' +
-                ", salary=" + salary +
-                '}';
+        return "Employee : " +
+                "idUser = " + idUser +
+                ", name = " + name  +
+                ", salary = " + salary+
+                ", earning = " + earning;
     }
 }

@@ -27,8 +27,8 @@ public class UserManager extends Employee{
 
     @Override
     public String toString() {
-        return "UserManager{" +
-                "responsibleSalary=" + responsibleSalary +
-                "} " + super.toString();
+        return super.toString()+",UserManager : " +
+                "responsibleSalary = " + responsibleSalary +
+                ", earning = " + earning;
     }
 }

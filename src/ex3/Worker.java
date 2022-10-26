@@ -69,6 +69,6 @@ public class Worker {
 
     @Override
     public String toString() {
-        return String.format(" %3s %10s %8d %10.1f %12s",idWorker,name,age,salary,status) +"\t"+date;
+        return String.format(" %3s %10s %8d %10.1f %12s %12tF",idWorker,name,age,salary,status,date);
     }
 }
