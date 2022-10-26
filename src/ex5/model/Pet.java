@@ -109,6 +109,6 @@ public class Pet {
                 ", sex = " + sex +
                 ", description = " + description  +
                 ", type = " + type +
-                ", images = " + images ;
+                ", images = " + images +"\n";
     }
 }
