@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< Updated upstream
     <list default="true" id="29731e67-2889-4785-9486-de5ad6f8106d" name="Default Changelist" comment="">
 <<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/src/test/Employee.java" afterDir="false" />
@@ -17,6 +18,9 @@
       <change beforePath="$PROJECT_DIR$/src/ex5/model/PetModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex5/model/PetModel.java" afterDir="false" />
 >>>>>>> 664c1800edf15886f8a2c22a31193116e59ae954
     </list>
+=======
+    <list default="true" id="29731e67-2889-4785-9486-de5ad6f8106d" name="Default Changelist" comment="" />
+>>>>>>> Stashed changes
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +47,11 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+<<<<<<< Updated upstream
     <property name="last_opened_file_path" value="$USER_HOME$/Downloads/Given/Given" />
+=======
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Java_Core" />
+>>>>>>> Stashed changes
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -147,12 +155,16 @@
       <workItem from="1666693710998" duration="18000" />
       <workItem from="1666695605821" duration="12133000" />
       <workItem from="1666765272554" duration="2596000" />
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       <workItem from="1666869402218" duration="746000" />
       <workItem from="1666870442102" duration="1440000" />
 =======
       <workItem from="1666768042787" duration="3393000" />
 >>>>>>> 664c1800edf15886f8a2c22a31193116e59ae954
+=======
+      <workItem from="1666768042787" duration="3646000" />
+>>>>>>> Stashed changes
     </task>
     <servers />
   </component>
