@@ -15,25 +15,32 @@ public class Main {
         Scanner sc = new Scanner(System.in);
         Random rd = new Random();
 
-        boolean check = false;
+        boolean check = true;
+
+        //thêm pet ban đầu
+
         System.out.println("input number pet");
         int number = Integer.parseInt(sc.nextLine());
-        for (int i = 0 ; i < number ; i++){
-            System.out.println("pet: " +(i+1));
-            Pet pet = petModel.inputPet(sc);
-            pets.add(pet);
-        }
+        petModel.inputPetRandom(sc,number,pets);
+
+        System.out.println(pets);
+
+        //Nhập thông tin pet của bạn:
 
         System.out.println("input my pet");
         Pet myPet = petModel.inputPet(sc);
         System.out.println( " My pet: " + myPet);
 
+        int checkMatch = 0;
+        int count = 0;
         do {
             int rdNumber = rd.nextInt(pets.size());
             Pet pet = pets.get(rdNumber);
+            count++ ;
             if (pet.getType().equals(myPet.getType())
                     && !(pet.getSex().equals(myPet.getSex()))){
                 System.out.println("Matching: " + pet);
+                checkMatch++;
                 System.out.println("do you want to continues y/ n");
                 String checkYN = sc.nextLine();
                 if (checkYN.equalsIgnoreCase("y")){
@@ -41,6 +48,13 @@ public class Main {
                 } else {
                     check = false;
                 }
+            }
+
+            // nếu tìm quá nhiều không ra kết quả thì thoát chương trình
+
+            if (count == 100 && checkMatch == 0){
+                System.out.println("No match");
+                check = false;
             }
         } while (check);
         System.out.println("Exit");

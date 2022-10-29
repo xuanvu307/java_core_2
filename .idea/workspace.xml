@@ -2,12 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29731e67-2889-4785-9486-de5ad6f8106d" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/src/test/Employee.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/Seller.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/java_core_2/ex5/control/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_core_2/ex5/control/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/java_core_2/ex5/model/Pet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_core_2/ex5/model/Pet.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/java_core_2/ex5/model/PetModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_core_2/ex5/model/PetModel.class" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_core_2/ex3/Worker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_core_2/ex3/Worker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex5/control/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex5/control/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex5/model/Pet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex5/model/Pet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex5/model/PetModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex5/model/PetModel.java" afterDir="false" />
+>>>>>>> 664c1800edf15886f8a2c22a31193116e59ae954
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,15 +112,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -141,8 +147,12 @@
       <workItem from="1666693710998" duration="18000" />
       <workItem from="1666695605821" duration="12133000" />
       <workItem from="1666765272554" duration="2596000" />
+<<<<<<< HEAD
       <workItem from="1666869402218" duration="746000" />
       <workItem from="1666870442102" duration="1440000" />
+=======
+      <workItem from="1666768042787" duration="3393000" />
+>>>>>>> 664c1800edf15886f8a2c22a31193116e59ae954
     </task>
     <servers />
   </component>
