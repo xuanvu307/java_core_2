@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="29731e67-2889-4785-9486-de5ad6f8106d" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/src/test/Employee.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/Seller.java" afterDir="false" />
@@ -22,6 +23,9 @@
       <change beforePath="$PROJECT_DIR$/src/ex5/model/Pet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex5/model/Pet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ex5/model/PetModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex5/model/PetModel.java" afterDir="false" />
     </list>
+=======
+    <list default="true" id="29731e67-2889-4785-9486-de5ad6f8106d" name="Default Changelist" comment="" />
+>>>>>>> 5ba4184e652cfe6f1d94db851842928855177f0a
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,10 +52,14 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+<<<<<<< HEAD
     <property name="last_opened_file_path" value="$USER_HOME$/Downloads/Given/Given" />
     =======
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Java_Core" />
     &gt;&gt;&gt;&gt;&gt;&gt;&gt; Stashed changes
+=======
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/ManageLibrary" />
+>>>>>>> 5ba4184e652cfe6f1d94db851842928855177f0a
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -60,20 +68,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.Main1">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex2.Main" />
-      <module name="java_core_2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex3.Main" />
       <module name="java_core_2" />
@@ -113,6 +108,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="quanlysach.control.Main" />
+      <module name="java_core_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="quanlysach.control.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main1" />
       <module name="java_core_2" />
@@ -120,24 +128,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main1" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -159,6 +156,11 @@
       <workItem from="1666870442102" duration="1440000" />
       <workItem from="1666768042787" duration="3393000" />
       <workItem from="1666768042787" duration="3646000" />
+<<<<<<< HEAD
+=======
+      <workItem from="1667117670414" duration="1513000" />
+      <workItem from="1667231987943" duration="24000" />
+>>>>>>> 5ba4184e652cfe6f1d94db851842928855177f0a
     </task>
     <servers />
   </component>
@@ -176,5 +178,20 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ex1/Student.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.ConcurrentModificationException" package="java.util" />
+          <option name="timeStamp" value="12" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
