@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="29731e67-2889-4785-9486-de5ad6f8106d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/quanlysach/control/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/quanlysach/model/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/quanlysach/model/BookModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/quanlysach/model/Library.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/quanlysach/model/LibraryModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/quanlysach/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/quanlysach/model/UserModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/quanlysach/view/MenuView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="29731e67-2889-4785-9486-de5ad6f8106d" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +28,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Java_Core" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/ManageLibrary" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -136,6 +126,7 @@
       <workItem from="1666768042787" duration="3393000" />
       <workItem from="1666768042787" duration="3646000" />
       <workItem from="1667117670414" duration="1513000" />
+      <workItem from="1667231987943" duration="24000" />
     </task>
     <servers />
   </component>
