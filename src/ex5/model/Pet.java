@@ -1,6 +1,6 @@
 package ex5.model;
 
-import constant.Enum;
+
 
 public class Pet {
     private static int id = 1;
